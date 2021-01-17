@@ -1,1 +1,1 @@
-prin(a+b)
+print(a+b)
